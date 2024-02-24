@@ -24,12 +24,12 @@ global.mods = []
 global.prems = []
 
 //Bot
-global.packname = 'ZorroBot-MD 💖'
-global.author = 'ZorroBot 🦊'
-global.wm = 'ZorroBot-MD'
-global.wm2 = 'Zorro : Bot'
-global.azami = 'Zorro'
-global.cb = 'ZorroBot'
+global.packname = 'KitsuneeBot-MD 💖'
+global.author = 'KitsuneeBot 🦊'
+global.wm = 'KitsuneBot-MD'
+global.wm2 = 'Kitsune : Bot'
+global.azami = 'Kitsunee'
+global.cb = 'KitsuneBot'
 
 global.vs = 'V2'
 global.library = 'Baileys'

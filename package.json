@@ -23,7 +23,7 @@
     
 "repository": {
 "type": "git",
- "url": "git+https://github.com/ArizzVal/CuriosityBot-MD" },
+ "url": "git+https://github.com/ArizzVal/CuriosityBot-MD.git" },
  
 "bugs": {
 "url": "https://github.com/ArizzVal/CuriosityBot-MD/issues" },

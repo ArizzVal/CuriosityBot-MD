@@ -16,19 +16,18 @@ global.owner = [
 global.botNumberCode = ''
 global.confirmCode = ''
 
-global.suittag = ['5214531287294']
+global.suittag = ['5215610314499']
 global.mods = []
 global.prems = []
 
 //Bot
-global.packname = ''
-global.author = 'CuriosityBot'
-global.wm = '© CuriosityBot-MD'
-global.wm2 = 'Curiosity : Bot'
-global.azami = 'Azami'
-global.cb = 'CuriosityBot'
+global.packname = 'ZorroBot-MD 💖'
+global.author = 'ZorroBot 🦊'
+global.wm = 'ZorroBot-MD'
+global.wm2 = 'Zorro : Bot'
+global.azami = 'Zorro'
+global.cb = 'ZorroBot'
 
-//Aqui la versión y entre otros
 global.vs = 'V2'
 global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'

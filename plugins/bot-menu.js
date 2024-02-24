@@ -24,20 +24,17 @@ let a = {'key': {'participants': '0@s.whatsapp.net', 'fromMe': false, 'id': '3B6
 const ftrol = { key : { remoteJid: 'status@broadcast', participant : '0@s.whatsapp.net' }, message: { orderMessage: { itemCount : 2023, status: 1, surface : 1, message: `${name}!`, orderTitle: `▮Menu ▸`, sellerJid: '0@s.whatsapp.net' }}}
 const fload = { key : { message: `CuriosityBot-MD 🍧` + `\nAzami`, thumbnail: await (await fetch(pp)).buffer(), sellerJid: '0@s.whatsapp.net' }}
 
-m.react('🏷️')
+m.react('❌️')
   
-let menu = `*👋 Hola, ${name}*
+let menu = `*📍 Hola, ${name}*
 
-!allmenu
-_(Para ver el menú completo)_
+!configiracion
+(para ver el menu completo)`
 
-!menu2
-_(Para ver el menu audios)_`
-
-await conn.reply(m.chat, menu, a, { contextInfo: { externalAdReply: {title: '👋 ¡Hola!', body: saludo, sourceUrl: ig, thumbnail: await (await fetch(pp)).buffer() }}})
+await conn.reply(m.chat, menu, a, { contextInfo: { externalAdReply: {title: '📍 ¡Hola!', body: saludo, sourceUrl: ig, thumbnail: await (await fetch(pp)).buffer() }}})
 
 } catch {
-conn.reply(m.chat, `*🚩 Ocurrió un fallo*`, m, fake, )
+conn.reply(m.chat, `🛠 *Los owner deven arreglar este error*`, m, fake, )
 console.log(e)
 }}
 handler.help = ['menu']

@@ -12,7 +12,7 @@ _Ejemplo : ${usedPrefix+command} normal_
 `, m, fake, )
 let mode = args[0].toLowerCase()
 if (!(mode in modes)) return conn.reply(m.chat, `
-*CURIOSITY - MATES*
+*KITSUNE - MATES*
 🧮 Dificultades disponibles : 
   
 ${Object.keys(modes).join(' | ')}

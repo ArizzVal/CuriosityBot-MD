@@ -29,11 +29,11 @@ global.ImgAll = [img, img1, img2, img3, img4, img5, img6, img7, img8, img9, img1
 //Enlaces
 global.yt = 'https://www.youtube.com/@Azami_YT'
 global.ig = 'https://instagram.com/azami_dev'
-global.md = 'https://github.com/AzamiJs/CuriosityBot-MD'
+global.md = 'https://github.com/ArizzVal/CuriosityBot-MD'
 global.paypal = 'https://paypal.me/Azamijs'
-global.git = 'https://github.com/AzamiJs'
-global.linkwabot = 'https://wa.me/message/QRWLLJZ2PH3MG1'
-global.email = 'thecuriositybot@gmail.com'
+global.git = 'https://github.com/ArizzVal'
+global.linkwabot = 'https://wa.me/51983039118?text=!menu'
+global.email = 'thekitsunebot@gmail.com'
 global.group = 'https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU' //Grupo ofc
 global.group2 = 'https://chat.whatsapp.com/B8RJAm16U2EISSDETrPivq' //enlace curiosity
 global.group3 = 'https://chat.whatsapp.com/J1R402WH1N0Hdl3S0NDEYu' //Curiosity global
@@ -59,7 +59,7 @@ global.jadibts = join(__dirname, 'jadibts/')
 global.raiz = './storage/logos/Menu1.jpg'
 
 //Reacciones De Comandos.!
-global.rwait = '⏰'
+global.rwait = '⏳️'
 global.done = '✅'
 global.error = '❌'
 

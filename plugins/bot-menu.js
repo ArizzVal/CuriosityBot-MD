@@ -28,8 +28,8 @@ m.react('❌️')
   
 let menu = `*📍 Hola, ${name}*
 
-!configiracion
-(para ver el menu completo)`
+*!configiracion*
+_(para ver el menu completo)_`
 
 await conn.reply(m.chat, menu, a, { contextInfo: { externalAdReply: {title: '📍 ¡Hola!', body: saludo, sourceUrl: ig, thumbnail: await (await fetch(pp)).buffer() }}})
 

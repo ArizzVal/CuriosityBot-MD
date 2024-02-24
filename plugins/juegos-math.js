@@ -3,7 +3,7 @@ var handler = async (m, { conn, args, usedPrefix, command }) => {
 conn.math = conn.math ? conn.math : {}
     
 if (args.length < 1) return conn.reply(m.chat, `
-*CURIOSITY - MATES*
+*KITSUNE - MATES*
 🧮 Dificultades disponibles : 
   
 ${Object.keys(modes).join(' | ')} 

@@ -23,7 +23,7 @@ let img = await q.download?.()
 let error
 try {
 const This = await processing(img, "enlace")
-conn.sendFile(m.chat, This, '', '🧃 *Toma tu foto*\n\n' + cred.toString('utf-8'), m)
+conn.sendFile(m.chat, This, '', '📷 *Toma tu foto*', m)
 } catch (er) {
 error = true
 } finally {

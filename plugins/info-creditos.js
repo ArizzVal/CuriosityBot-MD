@@ -5,7 +5,7 @@ let tqto = `👩🏻‍💻 *Desarrolladora*
 https://github.com/AzamiJs
 
 🎌 *Colaboradores*
-⬡ *X_Arumiii* 
+⬡ *Arumiii* 
 ⬡ *Diego*
 ⬡ *Ken*
 ⬡ *Azamijs*

@@ -41,7 +41,7 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/AzamiJs/CuriosityBot-MD/master/curiosity.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/ArizzVal/CuriosityBot-MD/master/curiosity.sh | bash
 ```
 
 - #### 🚩 Instalacion Manual Por Termux
@@ -61,7 +61,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/AzamiJs/CuriosityBot-MD && cd CuriosityBot-MD && yarn install && npm install
+git clone https://github.com/ArizzVal/CuriosityBot-MD && cd CuriosityBot-MD && yarn install && npm install
 ```
 
 ```bash

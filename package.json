@@ -1,7 +1,7 @@
 {
-"name": "KitsuneeBot-MD",
+"name": "CuriosityBot-MD",
 "version": "1.0.0", 
-"description": "Hermoso Bot-WhatsApp",
+"description": "Hermoso Bot De WhatsApp",
 "main": "index.js",
 "type": "module",
 

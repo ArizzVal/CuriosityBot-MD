@@ -12,7 +12,7 @@ global.owner = [
 ['51902247905', '👤 𝙿𝙸𝚃𝙴𝚁 𝙲𝙾𝙻𝙰𝙱', true]]
 
 
-global.botNumberCode = '+51983039118'
+global.botNumberCode = ''
 global.confirmCode = ''
 
 global.suittag = ['51983039118']

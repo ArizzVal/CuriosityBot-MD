@@ -31,7 +31,7 @@ global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
-global.dev = 'Bot ~ Kitsunee'
+global.dev = 'Bot ~ Kitsunee 🦊'
 global.devnum = '+521 56 1031 4499'
 
 let file = fileURLToPath(import.meta.url)

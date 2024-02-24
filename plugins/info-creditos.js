@@ -20,21 +20,11 @@ handler.before = async m => {
 if (/^colaboradores|Colaboradores$/i.test(m.text) ) {
 let texto = `🚩 *GitHub - Colaboradores*
 
-⬡ https://github.com/elrebelde21
-⬡ https://github.com/GataNina-Li
-⬡ https://github.com/ReyEndymion
-⬡ https://github.com/WOTCHITO
-⬡ https://github.com/HACHEJOTA
-⬡ https://github.com/EnderLB
-⬡ https://github.com/Jxtxn17
-⬡ https://github.com/Wilsmac
-⬡ https://github.com/KimdanBot-MD
-⬡ https://github.com/KatashiFukushima
-⬡ https://github.com/MoonContentCreator
 ⬡ https://github.com/ArizzVal
-⬡ https://github.com/WilsonWaoz
-⬡ https://github.com/WorkCwp
 ⬡ https://github.com/diegojadibot
+⬡ https://github.com/Principiante12344
+⬡ https://github.com/AzamiJs
+⬡ https://github.com/Edwardofc
 
 _Envie "cc" Para Obtener El Contacto De Los Colaboradores_`
 

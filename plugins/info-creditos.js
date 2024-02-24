@@ -2,7 +2,7 @@ var handler = async (m) => {
 
 let tqto = `👩🏻‍💻 *Desarrolladora*
 ⬡ *Arumiii*
-https://github.com/AzamiJs
+https://github.com/ArizzVal
 
 🎌 *Colaboradores*
 ⬡ *Arumiii* 

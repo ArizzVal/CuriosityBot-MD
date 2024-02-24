@@ -1,25 +1,15 @@
 var handler = async (m) => {
 
-let tqto = `🚩 *Desarrollador*
-⬡ *Azami*
+let tqto = `👩🏻‍💻 *Desarrolladora*
+⬡ *Arumiii*
 https://github.com/AzamiJs
 
 🎌 *Colaboradores*
-⬡ *Mario* 
-⬡ *GataDios*
-⬡ *Endymion*
-⬡ *Wotchito*
-⬡ *HJ*
-⬡ *Ender*
-⬡ *Ax*
-⬡ *Wilmer*
-⬡ *Jose*
-⬡ *Katashi*
-⬡ *Daniel*
-⬡ *X_Arumiii*
-⬡ *Wilson*
-⬡ *Cpw*
+⬡ *X_Arumiii* 
 ⬡ *Diego*
+⬡ *Ken*
+⬡ *Azamijs*
+⬡ *Edwardofc*
 
 _Envie "colaboradores" para obtener el enlace del perfil de GitHub de los colaboradores_`
 

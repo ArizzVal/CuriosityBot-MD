@@ -1,32 +1,32 @@
 {
-"name": "KitsuneeBot-MD",
+"name": "CuriosityBot-MD",
 "version": "1.0.0", 
-"description": "WhatsApp Bot - Node.Js",
+"description": "Hermoso Bot-WhatsApp",
 "main": "index.js",
 "type": "module",
-    
+
 "directories": {
 "lib": "lib",
 "src": "src",
 "plugins": "plugins" },
-    
+
 "scripts": {
 "start": "node index.js",
 "qr": "npm start",
 "code": "node index.js code",
 "test": "node test.js",
 "test2": "nodemon index.js" },
-    
-"homepage": "https://github.com/ArizzVal/CuriosityBot-MD",
+
+"homepage": "https://github.com/AzamiJs/CuriosityBot-MD",
 "author": {
-"name": "ArizzVal" }, 
-    
+"name": "Azami_dev" }, 
+
 "repository": {
 "type": "git",
- "url": "git+https://github.com/ArizzVal/CuriosityBot-MD.git" },
- 
+ "url": "git+https://github.com/AzamiJs/CuriosityBot-MD.git" },
+
 "bugs": {
-"url": "https://github.com/ArizzVal/CuriosityBot-MD/issues" },
+"url": "https://github.com/AzamiJs/CuriosityBot-MD/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys",

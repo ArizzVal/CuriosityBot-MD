@@ -15,7 +15,7 @@ global.owner = [
 global.botNumberCode = ''
 global.confirmCode = ''
 
-global.suittag = ['5215610314499']
+global.suittag = ['51983039118']
 global.mods = []
 global.prems = []
 
@@ -24,7 +24,7 @@ global.packname = 'KitsuneeBot-MD 💖'
 global.author = 'KitsuneeBot 🦊'
 global.wm = 'KitsuneBot-MD'
 global.wm2 = 'Kitsune : Bot'
-global.azami = 'Kitsunee'
+global.azami = 'Arumi'
 global.cb = 'KitsuneBot'
 
 global.vs = 'V2'
@@ -32,7 +32,7 @@ global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
-global.dev = 'Bot ~ Kitsunee 🦊'
+global.dev = 'Aru • Arumi'
 global.devnum = '+521 56 1031 4499'
 
 let file = fileURLToPath(import.meta.url)

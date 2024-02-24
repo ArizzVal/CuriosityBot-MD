@@ -1,10 +1,3 @@
-/* Credits to:
-* AzamiJs
-* Elrebelde21
-* GataNina-Li
-* Aruumi
-* Edwardofc */
-
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'

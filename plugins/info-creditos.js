@@ -47,7 +47,7 @@ let contacto = `🎌 *Contacto - Colaboradores*
 @527294888993
 
 ⬡ *Edwardofc*
-@+51935531943`
+@51935531943`
 
 m.reply(contacto, m.chat, { mentions: conn.parseMention(contacto)})}
 }

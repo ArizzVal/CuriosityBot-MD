@@ -1,7 +1,7 @@
 ## Kitsunee : Bot - MD ✨
 
 <p align="center">
-<img src="https://www.bing.com/images/create/crea-una-imagen-de-un-bot2c-que-se-llame-22c2aekitsunee/1-65d96ca05e0c4bf0abb85a29b50c2a10?id=JjVwgHShCe0fcjO%2bOCxn%2bg%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.k6uDAJXWNSLFxDLy4ER4&FORM=GCRIDP&mode=overlay" width="900"/>
+<img src="https://telegra.ph/file/8b64fbf5cb240149b364d.jpg" width="900"/>
 </p>
 
 <a href="https://github.com/azamijs/CuriosityBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>

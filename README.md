@@ -1,7 +1,7 @@
 ## Kitsunee : Bot - MD ✨
 
 <p align="center">
-<img src="https://telegra.ph/file/8b64fbf5cb240149b364d.jpg" width="900"/>
+<img src="https://telegra.ph/file/8b64fbf5cb240149b364d.jpg" width="700"/>
 </p>
 
 <a href="https://github.com/azamijs/CuriosityBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
